@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saurabhjaisinghani
 - 👀 I’m interested in becoming a good person
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on C++ projects
+- 💞️ I’m looking to collaborate on software programming projects.
 - 📫 You can reach me through my email address - saurabh.jaisinghani@gmail.com
 
 <!---
